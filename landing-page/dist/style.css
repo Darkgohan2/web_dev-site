@@ -298,9 +298,9 @@ h4{
 
 .back{
   border-radius: 55px;
-  padding:150px;
+  padding:100px;
   margin: 0 auto;
-  background: darkblue;
+  background: white;
  
   display: flex;
   justify-content: center;
